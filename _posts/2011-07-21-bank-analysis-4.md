@@ -1,0 +1,53 @@
+---
+title: 'How to Analyze a Bank Part 4: The Fuzzy Edition'
+author: Palmer Truelson
+layout: post
+permalink: /banking/bank-analysis-4/
+image:
+  - 
+seo_follow:
+  - 'false'
+seo_noindex:
+  - 'false'
+categories:
+  - Banking
+---
+[<img class="alignleft size-full wp-image-302" title="Fuzzy dice hanging from car mirror" src="http://www.valuablebehavior.com/wp-content/uploads/2011/07/fuzzy_dice.jpg" alt="Fuzzy Dice" width="222" height="222" />][1]In our own little CAMELS analysis, we&#8217;ve hit a great deal of the quantitative, number crunching side of analyzing a bank like <a title="Bank Analysis Part 2" href="http://www.valuablebehavior.com/banking/bank-analysis-2/"  target="_blank">how to assess a banks earnings, assets, and liabilities</a> and <a href="http://www.valuablebehavior.com/banking/bank-analysis-3/"  target="_blank">modeling how a bank would handle a difficult downturn</a>.  Now it&#8217;s time for the lighter, fuzzier side.  Questions like: how can I assess management, do they have a competitive advantage, and how sensitive are they to the local economy?
+
+Morningstar has a bit of a checklist in part three of their <a title="Bank Credit Methodology" href="http://corporate.morningstar.com/us/documents/MethodologyDocuments/MethodologyPapers/BankCreditMethodology.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://corporate.morningstar.com/us/documents/MethodologyDocuments/MethodologyPapers/BankCreditMethodology.pdf']);" target="_blank">bank credit analyis document</a>, but once again, it&#8217;s aimed at large institutions and they don&#8217;t go into great detail about how to actually analyze some of the finer points.  So put on your west coast apparel as it&#8217;s time to go qualitative and crunchy.
+
+## So Who&#8217;s Driving This Thing?
+
+We haven&#8217;t really taken a look at what makes good bank management.  **This is one case where you want to be bored.  Really bored.**  Light on the financial innovation, heavy on the conservative accounting, spotless underwriting, and long, unblemished history.  Banking does something that isn&#8217;t new, and it&#8217;s one of the few industries where the basic principles don&#8217;t change.  You want managers that understand this, stick to the basics, and won&#8217;t find new and interesting &#8220;growth&#8221; potential in such wonderful areas as social networking, sub-prime lending, junk bonds, 19th century railroads, or <a title="Tulip MANIA!" href="http://en.wikipedia.org/wiki/Tulip_mania" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://en.wikipedia.org']);" target="_blank">Dutch tulips</a>.  This is not a growth industry and fast growth is a red flag since it usually doesn&#8217;t turn out successfully.
+
+First, start by doing a little personal research.  Does googling produce any history of blowups with the managers running the ship?  Are they candid about their mistakes in letters to shareholders?  **I LOVE management that errs on the candid side with their reports to shareholders.**  Andrew August of the <a title="Frog's Kiss" href="http://frogskissbyandrewaugust.blogspot.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://frogskissbyandrewaugust.blogspot.com']);" target="_blank">Frog&#8217;s Kiss</a> (a FANTASTIC blog by the way and was an inspiration for me to start writing my own blog) just turned me on to a very candid bank CEO at Trinity Bank in Fort Worth, TX who&#8217;s <a href="http://www.trinitybk.com/pdf/investor/First%20Quarter%202011%20Shareholder%20letter%20and%20Press%20Release.pdf" onclick="javascript:_gaq.push(['_trackEvent','download','http://www.trinitybk.com/pdf/investor/First%20Quarter%202011%20Shareholder%20letter%20and%20Press%20Release.pdf']);" target="_blank">shareholder letters </a>do a wonderful job of describing his conservative thinking.  I&#8217;m thoroughly enjoying reading their past history. The more a CEO describes their thinking, the more I generally like them, assuming that the thinking is on the safe side.  Just be careful to not be totally swayed by words.  Make sure a long history backs it up and remember to think critically.
+
+As usual, the standard SEC filing anlaysis applies.  Are there any <a title="The Right Tool" href="http://www.valuablebehavior.com/behavioral-investing/the-right-tool/"  target="_blank">financial fine print melanomas</a> growing from year to year?  Is the board stuffed with family and friends of management?  Are there related transactions where certain family members get loans that are magically written-off?  Is management paid way more than they should, and do they take excessive perks?  Are there strange shell corporations associated with the company? If the stock is underpriced, are bank managers buying it?  Is the CFO&#8217;s position a revolving door? Does management own a significant amount of stock, not just stock options?  These are the usual basic questions that apply to any company, but just as bank managers shouldn&#8217;t forget the basics, neither should you.  **I ADORE managers who take a bit of a moral high ground and keep their perks to a minimum.**  They&#8217;re often hard to find.
+
+## What&#8217;s their Edge?
+
+I love a bank with an edge, and small bank advantages are often different than large bank advantages.  If you&#8217;re the largest bank in a small town, and you&#8217;re locally owned and operated, you&#8217;ve got a little bit of an edge. Everyone knows you, and you know them.  You&#8217;ve got an idea of what&#8217;s going on in the town and how to position your bank to benefit.  You have relationships with the people you serve.  And importantly, you know who the bozos are.  This is an asset in the hands of a management with shareholders&#8217; interests at heart.
+
+Also, does your bank offer something that other banks simply cannot?  Although not an example of a good underwriter, Wilmington Trust had a strangle hold on any banking business done in the state of Delaware, essentially owning the Boardwalk and Park Place on the Monopoly board. The bank <a title="Old Morningstar Analysis" href="http://quicktake.morningstar.com/StockNet/analysisarchive.aspx?docid=258807&year=2008&country=USA&symbol=WL" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://quicktake.morningstar.com']);" target="_blank">offered the best regulatory knowledge and advantages in the state</a> until M&T bought the bank after Wilmington started suffering underwriting problems.  Since Delaware is the state of choice for US corporations, Wilmington&#8217;s business was protected by a very valuable moat that probably kept them afloat far longer than a normal bank would have and likely saved them by becoming a valuable acquisition target.  M&T acquired a damaged but salvageable and extremely valuable diamond with their purchase.
+
+**Read your banks annual reports to get a feel of the type of loans and services they offer**, then critically assess if they are their market leader in a particular area and can hold on to that lead without having to resort to lowered pricing if a competitor moved in.  Keep asking yourself why would someone choose them over one of the low-cost-provider-too-big-to-fail-banco-GIGANTE financial behemoths that get most of the deposits anyway.  Study Morningstar&#8217;s list of narrow and wide moat banks to get a better feel of what gives a bank an advantage, especially the smaller guys.
+
+## Risky Business without the Shades and Boxers
+
+One risk we haven&#8217;t spent a great deal of time on is interest rate risk.  Credit and liquidity risk are far more important to take a look at, but it&#8217;s still worth checking that a bank can weather any changes in interest rate as well.  The Fed usually telegraphs to banks where interest rates are likely to head so banks have time to adjust their balance sheet.  Most of the time, you want the bank to be in neutral territory where any change in interest rate affects their liabilities as much as it does their assets.  Banking has a natural hedge against interest rates, and it&#8217;s good when they use it.
+
+However, being a little asset sensitive ( i.e. rate changes affect asset income more than liability expenses ) if rates are almost sure to go up, or liability sensitive ( i.e. rate changes affect liability expenses more than asset income ) if they are likely to drop soon, are generally good things.  Just make sure they&#8217;re not betting the bank on it.
+
+At present (2011), interest rates can only stay the same or go up, so I generally don&#8217;t mind seeing a little asset sensitivity in a bank.  Banks usually report their modeling of different interest rate environments in their 10K under the interest rate risk section.  **Always give the interest rate risk section a read and follow its history.**
+
+Another risk to consider is the risk of the community surrounding the bank.  The smaller the bank, the more tied to a community it is.  I&#8217;m going to go out on a limb in saying that small Michigan, California, and Florida banks haven&#8217;t exactly done well in recent years. ( Not to say there aren&#8217;t some likely highly profitable banks that may get lumped in with the rest. Hmm, makes me want to run some data. )  If a small bank is a single operator in a small town, and that town is collapsing, you obviously may want to reconsider your investment.  A bank spread out over multiple geographical areas has a bit more protection from community risk.  However, even in shrinking economies, some banks, like M&T in upstate New York in the 1970s and 80s, find ways to not only survive, but thrive.
+
+And we&#8217;ve reached the end of our how to analyze a bank series!  Feel free to leave a comment here or better yet, drop me a note on Twitter (<a title="truelson" href="https://twitter.com/#!/truelson" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://twitter.com']);" target="_blank">@truelson</a>).  You can even email me at truelson (-at-) dogpatchtech.com. Would love to get some feedback from any readers and answer any questions!
+
+***Photo Credit:*** glennebo / iStockPhoto.com
+
+***Full Disclosure:*** I have no position or interest in M&T Bank, BB&T, Trinity Bank, Morningstar, or Wilmington Trust.
+
+***Update***: I normally won&#8217;t update my disclosure for old posts, but I did recently become a shareholder in Trinity Bank.  Since this post was a few weeks ago, I decided to update it.
+
+ [1]: http://www.valuablebehavior.com/wp-content/uploads/2011/07/fuzzy_dice.jpg
